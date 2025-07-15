@@ -1,1 +1,137 @@
-
+{
+  "meal_plan": {
+    "Monday": {
+      "Breakfast": [
+        "Oats (70g)",
+        "Almond butter (1 tbsp)",
+        "Blueberries (100g)",
+        "Whey protein (1 scoop)"
+      ],
+      "Snack": [
+        "Greek yogurt (250g)",
+        "Walnuts (10g)",
+        "Chia seeds (1 tsp)",
+        "Apple (0.5)"
+      ],
+      "Lunch": [
+        "Grilled salmon (150g)",
+        "Quinoa (100g cooked)",
+        "Spinach",
+        "Olive oil",
+        "Broccoli"
+      ],
+      "Snack 2": [
+        "Protein shake",
+        "Banana"
+      ],
+      "Dinner": [
+        "Chicken breast (180g)",
+        "Buckwheat (150g)",
+        "Mixed vegetables",
+        "Olive oil"
+      ]
+    },
+    "Tuesday": {
+      "Breakfast": [
+        "Oats (70g)",
+        "Peanut butter (1 tbsp)",
+        "Strawberries (100g)",
+        "Whey protein (1 scoop)"
+      ],
+      "Snack": [
+        "Greek yogurt (250g)",
+        "Flaxseeds (1 tsp)",
+        "Pear"
+      ],
+      "Lunch": [
+        "Grilled chicken (150g)",
+        "Brown rice (100g cooked)",
+        "Mixed greens",
+        "Olive oil",
+        "Zucchini"
+      ],
+      "Snack 2": [
+        "2 boiled eggs",
+        "Rye bread (1 slice)",
+        "Hummus"
+      ],
+      "Dinner": [
+        "Tofu (180g)",
+        "Sweet potato (150g)",
+        "Mixed vegetables",
+        "Olive oil"
+      ]
+    },
+    "Wednesday": {
+      "Breakfast": [
+        "Oats (70g)",
+        "Almonds (10 pcs)",
+        "Banana",
+        "Whey protein (1 scoop)"
+      ],
+      "Snack": [
+        "Cottage cheese (200g)",
+        "Chia seeds (1 tsp)",
+        "Apple (0.5)"
+      ],
+      "Lunch": [
+        "Grilled salmon (150g)",
+        "Quinoa (100g cooked)",
+        "Kale",
+        "Olive oil",
+        "Carrots"
+      ],
+      "Snack 2": [
+        "Protein shake",
+        "Banana"
+      ],
+      "Dinner": [
+        "Chicken breast (180g)",
+        "Buckwheat (150g)",
+        "Mixed vegetables",
+        "Olive oil"
+      ]
+    },
+    "Thursday": "Repeat Monday",
+    "Friday": "Repeat Tuesday",
+    "Saturday": "Repeat Wednesday",
+    "Sunday": "Free day (leftovers or eating out)"
+  },
+  "shopping_list": {
+    "Oats": 6,
+    "Almond butter": 2,
+    "Blueberries": 2,
+    "Whey protein": 6,
+    "Greek yogurt": 4,
+    "Walnuts": 2,
+    "Chia seeds": 4,
+    "Apple": 4,
+    "Grilled salmon": 4,
+    "Quinoa": 4,
+    "Spinach": 2,
+    "Olive oil": 12,
+    "Broccoli": 2,
+    "Protein shake": 4,
+    "Banana": 6,
+    "Chicken breast": 4,
+    "Buckwheat": 4,
+    "Mixed vegetables": 6,
+    "Peanut butter": 2,
+    "Strawberries": 2,
+    "Flaxseeds": 2,
+    "Pear": 2,
+    "Grilled chicken": 2,
+    "Brown rice": 2,
+    "Mixed greens": 2,
+    "Zucchini": 2,
+    "2 boiled eggs": 2,
+    "Rye bread": 2,
+    "Hummus": 2,
+    "Tofu": 2,
+    "Sweet potato": 2,
+    "Almonds": 2,
+    "Cottage cheese": 2,
+    "Kale": 2,
+    "Carrots": 2
+  }
+}
